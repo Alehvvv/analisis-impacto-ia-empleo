@@ -65,4 +65,4 @@ Descarga el archivo `ai_job_impact.csv` desde Kaggle, colócalo en la misma carp
 
 ## Autor
 
-[Tu nombre] · [Tu perfil de GitHub o LinkedIn]
+Alexis Herrera
